@@ -1,4 +1,4 @@
-invite_userid = 143543
+invite_userid = [143543,332497061]
 
 import requests
 
